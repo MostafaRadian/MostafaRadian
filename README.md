@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MostafaRadian
-- 👀 I’m interested in coding, coding and nothing but coding 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development, data analysis and machiene learning
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me : through my mail 'mostafa.batesta@gmail.com'
 
 <!---
