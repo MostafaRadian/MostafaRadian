@@ -1,7 +1,8 @@
+```markdown
 # 👋 Hi, I'm Mostafa Radian  
 
 ## 💡 About Me  
-I am a **Software Specialist** and **Curriculum Developer** with a strong background in **Flutter development, machine learning, and web technologies**. I hold a **Bachelor's degree in Bioinformatics** from **Cairo University** with a GPA of **3.59 (Excellent with Honors)**.  
+I am a **Software Specialist** and **Curriculum Developer** with a strong background in **Flutter development, machine learning, and web technologies**. I hold a **Bachelor's degree in Bioinformatics** from **Cairo University** with a GPA of **3.59 (Excellent)**.  
 
 I am passionate about **teaching, mentoring, and developing innovative software solutions**. My experience spans **mobile app development, API integration, curriculum design, and AI research**.  
 
@@ -33,6 +34,9 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 - **[To-Do List App](https://github.com/MostafaRadian/To_Do_list)**  
   A fully functional cross-platform to-do list app developed using Flutter. It features task management capabilities, allowing users to add, mark as done, and archive tasks, with data stored in an SQLite database. The app includes interactive components like a floating action button, a bottom sheet for task creation, and a bottom navigation bar for seamless task module switching.
 
+- **[Notes App](https://github.com/MostafaRadian/notes)**  
+  A simple yet effective notes-taking application developed using Flutter. It utilizes a state management library to persistently store and manage notes, providing an intuitive and responsive user experience.
+
 - **[Early Detection of Colorectal Cancer](https://github.com/MostafaRadian/Early-detection-of-Colorectal-Cancer-using-ResNet-50)**  
   A project focused on the early detection of colorectal cancer using machine learning models. Developed SVM and CNN models trained on 6,000 images from the Kaiser dataset, achieving a detection accuracy of 93% with a ResNet-50 model. Additionally, a website was created to host the model by integrating PHP and Python.
 
@@ -43,4 +47,5 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 📧 **Email:** mostafaradian254@gmail.com  
 🌐 **GitHub:** [MostafaRadian](https://github.com/MostafaRadian)  
 💼 **LinkedIn:** [Mostafa Ahmed Radian](https://www.linkedin.com/in/mostafa-ahmed-radian-114a24181/)  
+```
 ```
