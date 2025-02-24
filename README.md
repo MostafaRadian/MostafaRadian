@@ -8,7 +8,6 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 ## 🔥 Interests  
 - **Mobile Development**: Flutter & Dart  
 - **Machine Learning**: Image Processing & AI Applications  
-- **Web Development**: Backend & Frontend Technologies  
 - **Teaching & Mentorship**: Programming Education & Curriculum Design  
 
 ## 🎯 Currently Learning  
