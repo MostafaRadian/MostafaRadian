@@ -45,5 +45,3 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 📧 **Email:** mostafaradian254@gmail.com  
 🌐 **GitHub:** [MostafaRadian](https://github.com/MostafaRadian)  
 💼 **LinkedIn:** [Mostafa Ahmed Radian](https://www.linkedin.com/in/mostafa-ahmed-radian-114a24181/)  
-```
-```
