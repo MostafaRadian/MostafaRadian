@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Mostafa Radian  
 
 ## 💡 About Me  
