@@ -5,41 +5,30 @@ I am a **Software Specialist** and **Curriculum Developer** with a strong backgr
 
 I am passionate about **teaching, mentoring, and developing innovative software solutions**. My experience spans **mobile app development, API integration, curriculum design, and AI research**.  
 
-## 🔥 Interests  
-- **Mobile Development**: Flutter & Dart  
-- **Machine Learning**: Image Processing & AI Applications  
-- **Teaching & Mentorship**: Programming Education & Curriculum Design  
+### 💡 What I Do  
+- 📱 **Flutter Development** – Crafting user-friendly mobile applications with efficient state management.  
+- 🎓 **Tech Education** – Teaching and mentoring students in **Dart, Flutter, Python, and Machiene Learning**.  
+- 🏗 **Curriculum Design** – Developing structured, hands-on programming courses.  
+- 🔍 **Machine Learning & Research** – Previously worked on **early detection of colorectal cancer** using **CNNs & SVMs**.  
 
-## 🎯 Currently Learning  
-- **Flutter Advanced Concepts**  
-- **Spring Boot for Backend Development**  
+### 🔧 Skills & Technologies  
+- **Languages:** ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+- **Mobile Development:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) State Management (Cubit, Provider)  
+- **Backend & APIs:** ![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+- **AI & Data Science:** ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9AB00?style=flat&logo=tensorflow&logoColor=black) Image Processing  
+- **Teaching & Mentorship:** Curriculum Development, Project Managment  
 
-## 🛠️ Technical Skills  
-- **Programming:** Flutter, Dart, Python, Java, C++, PHP  
-- **Frameworks & Tools:** Cubit, ResNet-50, SVM, CNN  
-- **Databases:** SQLite, Firebase  
-- **Software Development:** API Integration, Modular Programming  
-- **Research & AI:** Image Processing, Information Retrieval  
+### 🎯 Currently Learning  
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) **Advanced Concepts**  
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) **Spring Boot for Backend Development**  
+ 
 
-## 🚀 Projects  
-
-- **[Shop App](https://github.com/MostafaRadian/Shop-app)**  
-  An intermediate-level e-commerce application developed using Flutter and Cubit for state management. The app connects to APIs to fetch and display real-time product information, includes a shopping cart for managing items, and features user authentication with data handled through external APIs.
-
-- **[News App](https://github.com/MostafaRadian/News-App)**  
-  A news application built with Flutter that utilizes APIs and Cubit for state management. The app fetches and displays the latest news articles, providing users with up-to-date information in a user-friendly interface.
-
-- **[To-Do List App](https://github.com/MostafaRadian/To_Do_list)**  
-  A fully functional cross-platform to-do list app developed using Flutter. It features task management capabilities, allowing users to add, mark as done, and archive tasks, with data stored in an SQLite database. The app includes interactive components like a floating action button, a bottom sheet for task creation, and a bottom navigation bar for seamless task module switching.
-
-- **[Notes App](https://github.com/MostafaRadian/notes)**  
-  A simple yet effective notes-taking application developed using Flutter. It utilizes a state management library to persistently store and manage notes, providing an intuitive and responsive user experience.
-
-- **[Early Detection of Colorectal Cancer](https://github.com/MostafaRadian/Early-detection-of-Colorectal-Cancer-using-ResNet-50)**  
-  A project focused on the early detection of colorectal cancer using machine learning models. Developed SVM and CNN models trained on 6,000 images from the Kaiser dataset, achieving a detection accuracy of 93% with a ResNet-50 model. Additionally, a website was created to host the model by integrating PHP and Python.
-
-- **[BMI Calculator App](https://github.com/MostafaRadian/BMI_Calculator_fluuter)**  
-  A Flutter-based Body Mass Index (BMI) calculator app. It allows users to select their gender and adjust their height, weight, and age using interactive elements. The "CALCULATE" button triggers the BMI calculation based on the provided inputs and navigates to another screen to display the result.
+### 🎯 Featured Projects  
+🚀 [Shop App](https://github.com/MostafaRadian/Shop-app) – A fully functional **e-commerce app** with API integration.  
+📝 [Notes App](https://github.com/MostafaRadian/notes/tree/main) – A clean, **state-managed** notes application.  
+📋 [To-Do List App](https://github.com/MostafaRadian/To_Do_list) – A **task management** app using SQLite.  
+⚖️ [BMI Calculator App](https://github.com/MostafaRadian/BMI_Calculator_fluuter) – A **Flutter-based BMI calculator** with interactive UI elements.  
+🧠 [Colorectal Cancer Detection](https://github.com/MostafaRadian/Early-detection-of-Colorectal-Cancer-using-ResNet-50.git) – **AI-powered medical image classification**.  
 
 ## 📫 Let's Connect!  
 📧 **Email:** mostafaradian254@gmail.com  
