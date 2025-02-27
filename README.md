@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mostafa Radian  
 
 ## 💡 About Me  
-I am a **Software Specialist** and **Curriculum Developer** with a strong background in **Flutter development, machine learning, and web technologies**. I hold a **Bachelor's degree in Bioinformatics** from **Cairo University** with a GPA of **3.59 (Excellent)**.  
+I am a **Software Specialist** and **Curriculum Developer** with a strong background in **Flutter development, machine learning, and web technologies**. I hold a **Bachelor's degree in Computer science and Bioinformatics** from **Faculty of Computers and Artifical Intelligence, Cairo University** with a GPA of **3.59 (Excellent)**.  
 
 I am passionate about **teaching, mentoring, and developing innovative software solutions**. My experience spans **mobile app development, API integration, curriculum design, and AI research**.  
 
