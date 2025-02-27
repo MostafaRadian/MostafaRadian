@@ -9,18 +9,22 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 - 📱 **Flutter Development** – Crafting user-friendly mobile applications with efficient state management.  
 - 🎓 **Tech Education** – Teaching and mentoring students in **Dart, Flutter, Python, and Machiene Learning**.  
 - 🏗 **Curriculum Design** – Developing structured, hands-on programming courses.  
-- 🔍 **Machine Learning & Research** – Previously worked on **early detection of colorectal cancer** using **CNNs & SVMs**.  
-
+- 🔍 **Machine Learning & Research** – Previously worked on **early detection of colorectal cancer** using **CNNs & SVMs**.
+  
 ### 🔧 Skills & Technologies  
-- **Languages:** ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-- **Mobile Development:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) State Management (Cubit, Provider)  
-- **Backend & APIs:** ![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-- **AI & Data Science:** ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9AB00?style=flat&logo=tensorflow&logoColor=black) Image Processing  
-- **Teaching & Mentorship:** Curriculum Development, Project Managment  
+
+| **Category**        | **Technologies** |
+|---------------------|-----------------|
+| **Languages**      | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) State Management (Cubit, Provider) |
+| **Backend & APIs** | ![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **AI & Data Science** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9AB00?style=flat&logo=tensorflow&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **Teaching & Mentorship** | Curriculum Development, Project Managment |
+
 
 ### 🎯 Currently Learning  
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) **Advanced Concepts**  
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) **Spring Boot for Backend Development**  
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) &nbsp; **Advanced Flutter Concepts**  
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) &nbsp; **Spring Boot for Backend Development**  
  
 
 ### 🎯 Featured Projects  
