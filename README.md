@@ -9,7 +9,7 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 
 ## 💡 What I Do  
 📱 **Flutter Development** – Crafting user-friendly mobile applications with efficient state management.  
-🎓 **Tech Education** – Teaching and mentoring students in **Dart, Flutter, Python, and Machiene Learning**.  
+🎓 **Tech Education** – Teaching and mentoring students in **Dart, Flutter, Python, and Machine Learning**.  
 🏗 **Curriculum Design** – Developing structured, hands-on programming courses.  
 🔍 **Machine Learning & Research** – Previously worked on **early detection of colorectal cancer** using **CNNs & SVMs**.  
 
