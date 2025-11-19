@@ -48,25 +48,12 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=radical&border_radius=12)
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=swift&border_radius=12"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=swift&border_radius=12" />
-</picture>
+![Stats](https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=swift&border_radius=12)
 
-<br/>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=radical&border_radius=12)
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=swift&border_radius=12"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=swift&border_radius=12" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=swift&border_radius=12)
 
 </div>
+
 
 
 ---
