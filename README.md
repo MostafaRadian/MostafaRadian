@@ -48,9 +48,13 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 
 <div align="center">
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
+  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=swift&border_radius=12)
+![Stats](https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=radical&border_radius=12)
+
+  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=radical&border_radius=12)
 
 </div>
 
