@@ -56,8 +56,7 @@ I am passionate about **teaching, mentoring, and developing innovative software 
     <img alt="Mostafa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=default&border_radius=12">
   </picture>
 </a>
-</br>
-</br>
+</br></br>
 <!-- Top Languages Card -->
 <a href="https://github.com/MostafaRadian">
   <picture>
@@ -66,7 +65,7 @@ I am passionate about **teaching, mentoring, and developing innovative software 
   </picture>
 </a>
 
-
+</div>
 ---
 
 ## 📫 Let's Connect!  
