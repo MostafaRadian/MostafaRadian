@@ -49,9 +49,9 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 <div align="center">
 
   
-![Stats](https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=default&border_radius=12)
+![Stats](https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=auto&border_radius=12&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=default&border_radius=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=auto&border_radius=12&hide_border=true)
 
 </div>
 
