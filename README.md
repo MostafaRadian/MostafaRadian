@@ -66,6 +66,7 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 </a>
 
 </div>
+
 ---
 
 ## 📫 Let's Connect!  
