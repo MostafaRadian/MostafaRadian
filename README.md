@@ -49,10 +49,17 @@ I am passionate about **teaching, mentoring, and developing innovative software 
 <div align="center">
 
   
-![Stats](https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=auto&border_radius=12&hide_border=true)
+<!-- Stats Card: Light Mode -->
+[![Mostafa's GitHub Stats (Light)](https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=default&border_radius=12#gh-light-mode-only)](https://github.com/MostafaRadian#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=auto&border_radius=12&hide_border=true)
+<!-- Stats Card: Dark Mode -->
+[![Mostafa's GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=radical&border_radius=12#gh-dark-mode-only)](https://github.com/MostafaRadian#gh-dark-mode-only)
 
+<!-- Top Langs: Light Mode -->
+[![Top Languages (Light)](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=default&border_radius=12#gh-light-mode-only)](https://github.com/MostafaRadian#gh-light-mode-only)
+
+<!-- Top Langs: Dark Mode -->
+[![Top Languages (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=radical&border_radius=12#gh-dark-mode-only)](https://github.com/MostafaRadian#gh-dark-mode-only)
 </div>
 
 
