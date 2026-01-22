@@ -1,76 +1,97 @@
-# 👋 Hi, I'm Mostafa Radian  
+<h1 align="center">👋 Hi, I'm Mostafa Radian</h1>
+
+<p align="center">
+  <b>Flutter Developer • Software Specialist • Curriculum Designer</b><br/>
+</p>
+
+---
 
 ## 💡 About Me  
-I am a **Software Specialist** and **Curriculum Developer** with a strong background in **Flutter development, machine learning, and web technologies**. I hold a **Bachelor's degree in Computer science and Bioinformatics** from **Faculty of Computers and Artifical Intelligence, Cairo University** with a GPA of **3.59 (Excellent)**.  
 
-I am passionate about **teaching, mentoring, and developing innovative software solutions**. My experience spans **mobile app development, API integration, curriculum design, and AI research**.  
+I’m a **Software Specialist** and **Curriculum Developer** with a strong focus on  
+**Flutter & Dart**, alongside experience in **machine learning** and **web technologies**.
 
----
+🎓 **B.Sc. in Computer Science & Bioinformatics**  
+Faculty of Computers and Artificial Intelligence, Cairo University — **Class of 2022**
 
-## 💡 What I Do  
-📱 **Flutter Development** – Crafting user-friendly mobile applications with efficient state management.  
-🎓 **Tech Education** – Teaching and mentoring students in **Dart, Flutter, Python, and Machine Learning**.  
-🏗 **Curriculum Design** – Developing structured, hands-on programming courses.  
-🔍 **Machine Learning & Research** – Previously worked on **early detection of colorectal cancer** using **CNNs & SVMs**.  
+I’m passionate about **clean code**, **great UX**, and **teaching through real-world projects**.
 
 ---
 
-## 🔧 Skills & Technologies  
+## 💼 What I Do  
 
-### 🖥️ **Programming & Development**  
-| **Category**        | **Technologies** |
-|---------------------|-----------------|
-| **Languages**      | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  |
-| **Backend & APIs** | ![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **AI & Data Science** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F9AB00?style=flat&logo=tensorflow&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
-| **Teaching & Mentorship** | Curriculum Development, Project Management |
+📱 **Flutter Development**  
+Designing scalable, user-friendly mobile applications with clean architecture and solid state management.
+
+🎓 **Tech Education & Mentorship**  
+Teaching **Dart, Flutter, Python, and Machine Learning** using a hands-on, project-driven approach.
+
+🏗 **Curriculum Design**  
+Creating structured learning paths that bridge theory and real-world development.
+
+🔬 **Machine Learning & Research**  
+Worked on **early colorectal cancer detection** using **CNNs & SVMs**.
+
+---
+
+## 🛠 Skills & Technologies  
+
+### 🖥️ Programming & Development  
+
+| Area | Stack |
+|-----|------|
+| **Primary Stack** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Backend & APIs** | REST APIs, Firebase |
+| **AI & Data Science** | Machine Learning, OpenCV |
+| **Education** | Curriculum Development, Mentorship |
+
+---
+
+## ✨ Highlights  
+
+- 🏗 Built and maintained multiple **production-ready Flutter applications**
+- 🎓 Taught and mentored students in **Flutter, Dart, Python, and ML**
+- 📚 Designed **curricula and learning paths** used in real classrooms
+- 🔬 Applied **machine learning** techniques to medical imaging problems
+- 🧩 Strong focus on **code quality, UX, and maintainability**
 
 ---
 
 ## 🎯 Currently Learning  
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) &nbsp; **Advanced Flutter Concepts**  
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) &nbsp; **Spring Boot for Backend Development** 
+
+- 🚀 **Advanced Flutter** (architecture, performance, best practices)  
+- 🌱 **Spring Boot** for backend development  
 
 ---
 
-## 🎯 Featured Projects  
-🚀 [**Shop App**](https://github.com/MostafaRadian/Shop-app) – A fully functional **e-commerce app** with API integration.  
-📝 [**Notes App**](https://github.com/MostafaRadian/notes/tree/main) – A clean, **state-managed** notes application.  
-📋 [**To-Do List App**](https://github.com/MostafaRadian/To_Do_list) – A **task management** app using SQLite.  
-⚖️ [**BMI Calculator App**](https://github.com/MostafaRadian/BMI_Calculator_fluuter) – A **Flutter-based BMI calculator** with interactive UI elements.  
-🧠 [**Colorectal Cancer Detection**](https://github.com/MostafaRadian/Early-detection-of-Colorectal-Cancer-using-ResNet-50.git) – **AI-powered medical image classification**.  
+## 🌟 Featured Projects  
 
+🚀 **[Shop App](https://github.com/MostafaRadian/Shop-app)**  
+> Flutter e-commerce application with API integration
 
----
+📝 **[Notes App](https://github.com/MostafaRadian/notes/tree/main)**  
+> Clean, state-managed Flutter notes app
 
-## 🌐 GitHub Stats
+📋 **[To-Do List App](https://github.com/MostafaRadian/To_Do_list)**  
+> Task management app using SQLite
 
-<div align="center">
+⚖️ **[BMI Calculator](https://github.com/MostafaRadian/BMI_Calculator_fluuter)**  
+> Interactive Flutter UI with responsive design
 
-  
-<!-- Stats Card -->
-<a href="https://github.com/MostafaRadian">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=radical&border_radius=12">
-    <img alt="Mostafa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MostafaRadian&show_icons=true&theme=default&border_radius=12">
-  </picture>
-</a>
-</br></br>
-<!-- Top Languages Card -->
-<a href="https://github.com/MostafaRadian">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=radical&border_radius=12">
-    <img alt="Mostafa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaRadian&layout=compact&theme=default&border_radius=12">
-  </picture>
-</a>
-
-</div>
+🧠 **[Colorectal Cancer Detection](https://github.com/MostafaRadian/Early-detection-of-Colorectal-Cancer-using-ResNet-50.git)**  
+> AI-powered medical image classification using CNNs
 
 ---
 
-## 📫 Let's Connect!  
-📧 **Email:** mostafaradian254@gmail.com  
-🌐 **GitHub:** [MostafaRadian](https://github.com/MostafaRadian)  
-💼 **LinkedIn:** [Mostafa Ahmed Radian](https://www.linkedin.com/in/mostafa-ahmed-radian-114a24181/)  
+## 📫 Contact Me  
 
+<p align="left">
+  <a href="mailto:mostafaradian254@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/mostafa-ahmed-radian-114a24181/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
